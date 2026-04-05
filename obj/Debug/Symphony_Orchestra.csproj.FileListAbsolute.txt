@@ -1,0 +1,9 @@
+C:\C#\HomeWork_2\Symphony_Orchestra\bin\Debug\Symphony_Orchestra.exe.config
+C:\C#\HomeWork_2\Symphony_Orchestra\bin\Debug\Symphony_Orchestra.exe
+C:\C#\HomeWork_2\Symphony_Orchestra\bin\Debug\Symphony_Orchestra.pdb
+C:\C#\HomeWork_2\Symphony_Orchestra\obj\Debug\Symphony_Orchestra.csproj.AssemblyReference.cache
+C:\C#\HomeWork_2\Symphony_Orchestra\obj\Debug\Symphony_Orchestra.Properties.Resources.resources
+C:\C#\HomeWork_2\Symphony_Orchestra\obj\Debug\Symphony_Orchestra.csproj.GenerateResource.cache
+C:\C#\HomeWork_2\Symphony_Orchestra\obj\Debug\Symphony_Orchestra.csproj.CoreCompileInputs.cache
+C:\C#\HomeWork_2\Symphony_Orchestra\obj\Debug\Symphony_Orchestra.exe
+C:\C#\HomeWork_2\Symphony_Orchestra\obj\Debug\Symphony_Orchestra.pdb
