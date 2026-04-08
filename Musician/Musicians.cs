@@ -2,7 +2,7 @@
 using System.Drawing;
 namespace Symphony_Orchestra.Musician
 {
-    internal class Musicians
+    public class Musicians
     {
         public string musician_name { get; set; }
         private int age;

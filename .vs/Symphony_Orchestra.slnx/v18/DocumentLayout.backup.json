@@ -1,0 +1,440 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|c:\\c#\\homework_2\\symphony_orchestra\\symphonyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|solutionrelative:symphonyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|C:\\C#\\HomeWork_2\\Symphony_Orchestra\\symphonyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|solutionrelative:symphonyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|C:\\C#\\HomeWork_2\\Symphony_Orchestra\\symphonyform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|solutionrelative:symphonyform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|C:\\C#\\HomeWork_2\\Symphony_Orchestra\\data\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|solutionrelative:data\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|C:\\C#\\HomeWork_2\\Symphony_Orchestra\\data\\xmlf.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|solutionrelative:data\\xmlf.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|C:\\C#\\HomeWork_2\\Symphony_Orchestra\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|C:\\C#\\HomeWork_2\\Symphony_Orchestra\\information_of_instrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|solutionrelative:information_of_instrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|C:\\C#\\HomeWork_2\\Symphony_Orchestra\\information_of_instrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|solutionrelative:information_of_instrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|C:\\C#\\HomeWork_2\\Symphony_Orchestra\\information_of_musicsian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|solutionrelative:information_of_musicsian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|C:\\C#\\HomeWork_2\\Symphony_Orchestra\\instrument\\instruments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|solutionrelative:instrument\\instruments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|C:\\C#\\HomeWork_2\\Symphony_Orchestra\\instrument\\serial_number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|solutionrelative:instrument\\serial_number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|C:\\C#\\HomeWork_2\\Symphony_Orchestra\\instrument\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|solutionrelative:instrument\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|C:\\C#\\HomeWork_2\\Symphony_Orchestra\\information_of_instrument.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|solutionrelative:information_of_instrument.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|C:\\C#\\HomeWork_2\\Symphony_Orchestra\\information_of_conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|solutionrelative:information_of_conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|C:\\C#\\HomeWork_2\\Symphony_Orchestra\\information_of_conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|solutionrelative:information_of_conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|C:\\C#\\HomeWork_2\\Symphony_Orchestra\\information_of_musicsian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|solutionrelative:information_of_musicsian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|C:\\C#\\HomeWork_2\\Symphony_Orchestra\\conductor\\orchestra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|solutionrelative:conductor\\orchestra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|C:\\C#\\HomeWork_2\\Symphony_Orchestra\\conductor\\enum_for_orchestra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|solutionrelative:conductor\\enum_for_orchestra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|C:\\C#\\HomeWork_2\\Symphony_Orchestra\\conductor\\enum_for_education_degree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|solutionrelative:conductor\\enum_for_education_degree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|C:\\C#\\HomeWork_2\\Symphony_Orchestra\\conductor\\conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|solutionrelative:conductor\\conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|C:\\C#\\HomeWork_2\\Symphony_Orchestra\\musician\\awards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|solutionrelative:musician\\awards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|C:\\C#\\HomeWork_2\\Symphony_Orchestra\\musician\\musicians.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|solutionrelative:musician\\musicians.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|C:\\C#\\HomeWork_2\\Symphony_Orchestra\\information_of_musicsian.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|solutionrelative:information_of_musicsian.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|C:\\C#\\HomeWork_2\\Symphony_Orchestra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|C:\\C#\\HomeWork_2\\Symphony_Orchestra\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|solutionrelative:properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|C:\\C#\\HomeWork_2\\Symphony_Orchestra\\instrument\\enum_instrument_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FB2C00-7776-4451-950F-07F471759712}|Symphony_Orchestra.csproj|solutionrelative:instrument\\enum_instrument_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SymphonyForm.cs",
+              "DocumentMoniker": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\SymphonyForm.cs",
+              "RelativeDocumentMoniker": "SymphonyForm.cs",
+              "ToolTip": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\SymphonyForm.cs",
+              "RelativeToolTip": "SymphonyForm.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAAANsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:33:29.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "INformation_of_instrument.Designer.cs",
+              "DocumentMoniker": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\INformation_of_instrument.Designer.cs",
+              "RelativeDocumentMoniker": "INformation_of_instrument.Designer.cs",
+              "ToolTip": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\INformation_of_instrument.Designer.cs",
+              "RelativeToolTip": "INformation_of_instrument.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T14:03:53.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "INformation_of_instrument.cs",
+              "DocumentMoniker": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\INformation_of_instrument.cs",
+              "RelativeDocumentMoniker": "INformation_of_instrument.cs",
+              "ToolTip": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\INformation_of_instrument.cs",
+              "RelativeToolTip": "INformation_of_instrument.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T14:02:23.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Instruments.cs",
+              "DocumentMoniker": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Instrument\\Instruments.cs",
+              "RelativeDocumentMoniker": "Instrument\\Instruments.cs",
+              "ToolTip": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Instrument\\Instruments.cs",
+              "RelativeToolTip": "Instrument\\Instruments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T13:49:34.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XMLF.xml",
+              "DocumentMoniker": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Data\\XMLF.xml",
+              "RelativeDocumentMoniker": "Data\\XMLF.xml",
+              "ToolTip": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Data\\XMLF.xml",
+              "RelativeToolTip": "Data\\XMLF.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-07T18:59:47.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Conductor.cs",
+              "DocumentMoniker": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Conductor\\Conductor.cs",
+              "RelativeDocumentMoniker": "Conductor\\Conductor.cs",
+              "ToolTip": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Conductor\\Conductor.cs",
+              "RelativeToolTip": "Conductor\\Conductor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T18:55:45.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\DataBase.cs",
+              "RelativeDocumentMoniker": "DataBase.cs",
+              "ToolTip": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\DataBase.cs",
+              "RelativeToolTip": "DataBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T18:50:53.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "data.json",
+              "DocumentMoniker": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Data\\data.json",
+              "RelativeDocumentMoniker": "Data\\data.json",
+              "ToolTip": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Data\\data.json",
+              "RelativeToolTip": "Data\\data.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-07T18:36:47.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SymphonyForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\SymphonyForm.cs",
+              "RelativeDocumentMoniker": "SymphonyForm.cs",
+              "ToolTip": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\SymphonyForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SymphonyForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T13:09:46.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "INformation_of_musicsian.Designer.cs",
+              "DocumentMoniker": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\INformation_of_musicsian.Designer.cs",
+              "RelativeDocumentMoniker": "INformation_of_musicsian.Designer.cs",
+              "ToolTip": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\INformation_of_musicsian.Designer.cs",
+              "RelativeToolTip": "INformation_of_musicsian.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T14:58:57.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "INformation_of_musicsian.cs",
+              "DocumentMoniker": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\INformation_of_musicsian.cs",
+              "RelativeDocumentMoniker": "INformation_of_musicsian.cs",
+              "ToolTip": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\INformation_of_musicsian.cs",
+              "RelativeToolTip": "INformation_of_musicsian.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T14:43:37.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Musicians.cs",
+              "DocumentMoniker": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Musician\\Musicians.cs",
+              "RelativeDocumentMoniker": "Musician\\Musicians.cs",
+              "ToolTip": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Musician\\Musicians.cs",
+              "RelativeToolTip": "Musician\\Musicians.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T14:39:27.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "INformation_of_conductor.cs",
+              "DocumentMoniker": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\INformation_of_conductor.cs",
+              "RelativeDocumentMoniker": "INformation_of_conductor.cs",
+              "ToolTip": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\INformation_of_conductor.cs",
+              "RelativeToolTip": "INformation_of_conductor.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T14:29:18.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "INformation_of_conductor.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\INformation_of_conductor.cs",
+              "RelativeDocumentMoniker": "INformation_of_conductor.cs",
+              "ToolTip": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\INformation_of_conductor.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "INformation_of_conductor.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T13:09:50.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-04-07T12:56:12.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T13:01:14.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "INformation_of_instrument.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\INformation_of_instrument.cs",
+              "RelativeDocumentMoniker": "INformation_of_instrument.cs",
+              "ToolTip": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\INformation_of_instrument.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "INformation_of_instrument.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T11:54:32.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "INformation_of_musicsian.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\INformation_of_musicsian.cs",
+              "RelativeDocumentMoniker": "INformation_of_musicsian.cs",
+              "ToolTip": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\INformation_of_musicsian.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "INformation_of_musicsian.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T11:54:09.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Enum_instrument_type.cs",
+              "DocumentMoniker": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Instrument\\Enum_instrument_type.cs",
+              "RelativeDocumentMoniker": "Instrument\\Enum_instrument_type.cs",
+              "ToolTip": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Instrument\\Enum_instrument_type.cs",
+              "RelativeToolTip": "Instrument\\Enum_instrument_type.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T20:14:24.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Enum_for_Orchestra.cs",
+              "DocumentMoniker": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Conductor\\Enum_for_Orchestra.cs",
+              "RelativeDocumentMoniker": "Conductor\\Enum_for_Orchestra.cs",
+              "ToolTip": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Conductor\\Enum_for_Orchestra.cs",
+              "RelativeToolTip": "Conductor\\Enum_for_Orchestra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T20:14:11.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Enum_for_Education_Degree.cs",
+              "DocumentMoniker": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Conductor\\Enum_for_Education_Degree.cs",
+              "RelativeDocumentMoniker": "Conductor\\Enum_for_Education_Degree.cs",
+              "ToolTip": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Conductor\\Enum_for_Education_Degree.cs",
+              "RelativeToolTip": "Conductor\\Enum_for_Education_Degree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T20:14:04.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Manufacturer.cs",
+              "DocumentMoniker": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Instrument\\Manufacturer.cs",
+              "RelativeDocumentMoniker": "Instrument\\Manufacturer.cs",
+              "ToolTip": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Instrument\\Manufacturer.cs",
+              "RelativeToolTip": "Instrument\\Manufacturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:46:44.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SymphonyForm.Designer.cs",
+              "DocumentMoniker": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\SymphonyForm.Designer.cs",
+              "RelativeDocumentMoniker": "SymphonyForm.Designer.cs",
+              "ToolTip": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\SymphonyForm.Designer.cs",
+              "RelativeToolTip": "SymphonyForm.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:35:21.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Serial_Number.cs",
+              "DocumentMoniker": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Instrument\\Serial_Number.cs",
+              "RelativeDocumentMoniker": "Instrument\\Serial_Number.cs",
+              "ToolTip": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Instrument\\Serial_Number.cs",
+              "RelativeToolTip": "Instrument\\Serial_Number.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:44:53.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Awards.cs",
+              "DocumentMoniker": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Musician\\Awards.cs",
+              "RelativeDocumentMoniker": "Musician\\Awards.cs",
+              "ToolTip": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Musician\\Awards.cs",
+              "RelativeToolTip": "Musician\\Awards.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:46:13.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Orchestra.cs",
+              "DocumentMoniker": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Conductor\\Orchestra.cs",
+              "RelativeDocumentMoniker": "Conductor\\Orchestra.cs",
+              "ToolTip": "C:\\C#\\HomeWork_2\\Symphony_Orchestra\\Conductor\\Orchestra.cs",
+              "RelativeToolTip": "Conductor\\Orchestra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T16:43:31.133Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

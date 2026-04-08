@@ -2,7 +2,7 @@
 using System;
 namespace Symphony_Orchestra.Instrument
 {
-    internal class Instruments
+    public class Instruments
     {
         public Instrument_species name {  get; set; }
         public Instrument_type type { get; set; }

@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Symphony_Orchestra.Musician
 {
-    internal class Awards
+    public class Awards
     {
         public string name_of_award { get; set; }
         private int year_of_award;
@@ -19,6 +19,10 @@ namespace Symphony_Orchestra.Musician
                     year_of_award = value;
                 }
             }
+        }
+        public override string ToString()
+        {
+            return $"{name_of_award} ({Year_of_award})";
         }
     }
 }

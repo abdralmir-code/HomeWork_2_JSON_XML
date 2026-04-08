@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<DataBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <conductors>
+    <Conductor>
+      <conductor_name>Konstantin Krimets</conductor_name>
+      <age>94</age>
+      <years_of_experience>70</years_of_experience>
+      <conductor_education>
+        <name_of_educational_institution>Juilliard School</name_of_educational_institution>
+        <Degree>ProfessionalDiploma</Degree>
+      </conductor_education>
+      <conductor_orchestra>
+        <name_of_orchestra>Globalis Symphony Orchestra</name_of_orchestra>
+        <number_of_musicians>100</number_of_musicians>
+        <type_of_orchestra>Symphony</type_of_orchestra>
+      </conductor_orchestra>
+    </Conductor>
+  </conductors>
+  <musicians>
+    <Musicians>
+      <musician_name>Alice Smith</musician_name>
+      <Age>30</Age>
+      <musician_instrument>Violin</musician_instrument>
+      <musician_education>
+        <name_of_educational_institution>Curtis Institute of Music</name_of_educational_institution>
+        <Degree>Bachelor</Degree>
+      </musician_education>
+      <musician_awards>
+        <name_of_award>Best Violinist</name_of_award>
+        <Year_of_award>2020</Year_of_award>
+      </musician_awards>
+    </Musicians>
+  </musicians>
+  <instruments>
+    <Instruments>
+      <name>Accordion</name>
+      <type>Keyboard</type>
+      <year_manufactured>2015</year_manufactured>
+      <instrument_manufacturer>
+        <name_of_manufacturer>Hohner</name_of_manufacturer>
+        <country_of_manufacturer>Germany</country_of_manufacturer>
+      </instrument_manufacturer>
+      <serial_number>
+        <_serial_number>dc3e7918-5eef-4347-815b-41ef9a01a228</_serial_number>
+      </serial_number>
+    </Instruments>
+  </instruments>
+</DataBase>

@@ -1,13 +1,13 @@
 ﻿using System;
 namespace Symphony_Orchestra
 {
-    internal class Conductor
+    public class Conductor
     {
         public string conductor_name { get; set; }
-        private int age;
-        public int Age
+        private int Age_;
+        public int age
         {
-            get { return age; }
+            get { return Age_; }
             set
             {
                 if (value < 0)
@@ -16,7 +16,7 @@ namespace Symphony_Orchestra
                 }
                 else
                 {
-                    age = value;
+                    Age_ = value;
                 }
             }
         }

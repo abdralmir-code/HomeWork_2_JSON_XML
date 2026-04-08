@@ -1,0 +1,47 @@
+{
+  "conductors": [
+    {
+      "conductor_name": "Konstantin Krimets",
+      "age": 94,
+      "years_of_experience": 70,
+      "conductor_education": {
+        "name_of_educational_institution": "Juilliard School",
+        "Degree": 3
+      },
+      "conductor_orchestra": {
+        "name_of_orchestra": "Globalis Symphony Orchestra",
+        "number_of_musicians": 100,
+        "type_of_orchestra": 0
+      }
+    }
+  ],
+  "musicians": [
+    {
+      "musician_name": "Alice Smith",
+      "Age": 30,
+      "musician_instrument": 0,
+      "musician_education": {
+        "name_of_educational_institution": "Curtis Institute of Music",
+        "Degree": 0
+      },
+      "musician_awards": {
+        "name_of_award": "Best Violinist",
+        "Year_of_award": 2020
+      }
+    }
+  ],
+  "instruments": [
+    {
+      "name": 13,
+      "type": 4,
+      "year_manufactured": 2015,
+      "instrument_manufacturer": {
+        "name_of_manufacturer": "Hohner",
+        "country_of_manufacturer": "Germany"
+      },
+      "serial_number": {
+        "_serial_number": "dc3e7918-5eef-4347-815b-41ef9a01a228"
+      }
+    }
+  ]
+}
